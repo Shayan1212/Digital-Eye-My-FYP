@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274224847820",
+    "project_id": "digital-eye-b3900",
+    "storage_bucket": "digital-eye-b3900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274224847820:android:6b86d4eeee561d28195b69",
+        "android_client_info": {
+          "package_name": "com.example.digitaleye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274224847820-cgrv1a13s8cq29q7ov3rb6dfi56uch8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApYTLvxgsdjJhj9ZefoJnCwVeYFhrA1PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274224847820-cgrv1a13s8cq29q7ov3rb6dfi56uch8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

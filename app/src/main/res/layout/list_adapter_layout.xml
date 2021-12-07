@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="100"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="50"
+        android:id="@+id/currency_worth"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:textAlignment="center"
+        android:text="currency_worth"
+        android:padding="5dp"
+        android:textColor="#47525E"
+        android:fontFamily="@font/abril_fatface"
+    />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="50"
+        android:id="@+id/timestamp1"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:textAlignment="center"
+        android:textColor="#47525E"
+        android:text="Timestamp"
+        android:padding="5dp"
+        android:fontFamily="@font/abril_fatface"
+        />
+</LinearLayout>
